@@ -2,7 +2,7 @@
 
 I'm [Devashish](https://github.com/py-coder-deva) , Python Programmer based in India.
 
-I am someone who tries develop himself every single day.
+I am someone who tries to develop himself every single day.
 
 I have Engineering degrees from NIT Raipur and IIT Kharagpur.
 
@@ -12,13 +12,11 @@ I've got a bunch of pinned projects, one which i consider my favourite is the Gr
 
 
 
-
-
-
+<br>
 #### Fun Facts:
 - My Favourite football team is Real Madrid.
 - My Favourite player is Cristiano Ronaldo.
-- I can play Flute.  
+- I love playing single-player Games.  
 - **Hobbies:** Football, Gym and Gaming. 
 
 
