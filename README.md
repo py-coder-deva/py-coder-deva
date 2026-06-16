@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @py-coder-deva
-- 👀 I’m interested in python programming language and machine learning.
-- 🌱 I’m currently learning django to improve my web devlopment skills. 
-- 💞️ I’m looking to collaborate on machine learning projects for steel industries.
-- 📫 How to reach me by my email-id - devashishprasad33@gmail.com
+## Hi There👋
 
-<!---
-py-coder-deva/py-coder-deva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm [Devashish](https://github.com/py-coder-deva) , Python Programmer based in India.
+
+I am someone who tries develop himself every single day.
+
+I have Engineering degrees from NIT Raipur and IIT Kharagpur.
+
+My main tech expertise is Python, ML and SQL. My favourite tools are Jupyter Notebook , MySQL and PowerBI.
+
+I've got a bunch of pinned projects, one which i consider my favourite is the Grain Size Prediction from Kinetic Monte Carlo Simulations using Machine Learning. 
+
+
+
+
+
+
+#### Fun Facts:
+- My Favourite football team is Real Madrid.
+- My Favourite player is Cristiano Ronaldo.
+- I can play Flute.  
+- **Hobbies:** Football, Gym and Gaming. 
+
+
