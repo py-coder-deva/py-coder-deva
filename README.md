@@ -29,7 +29,7 @@ Every suggestion helps me become a better developer. Thanks for checking out the
 
 <br>
 
-#### Fun Facts:
+## Fun Facts:
 - My Favourite football team is Real Madrid.
 - My Favourite player is Cristiano Ronaldo.
 - I love playing single-player Games.  
