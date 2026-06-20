@@ -2,7 +2,7 @@
 
 I'm [Devashish](https://github.com/py-coder-deva) , Python Programmer based in India.
 
-I am someone who tries to develop himself every single day.
+I am someone who tries to develop himself every single day and grow as a programmer.
 
 I have Engineering degrees from NIT Raipur and IIT Kharagpur.
 
